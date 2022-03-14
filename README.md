@@ -1,4 +1,5 @@
 # NathanShih-Tri-3
+[Repl Menu](https://replit.com/@TankeeTort/NathanShih-Tri-3)
 
 ## Notes 5.1, 5.2, and actions
 5.1 Beneficial and Harmful Effects
