@@ -56,8 +56,6 @@ Our project built for TrailNorte will be called Trail Norte Services and will al
 [Code Coming Soon]()
 
 ## Create Task Project
-https://noahj214.github.io/createtask.github.io/
-
 ### Ideas
 * GPA Calc for student athletes
 * Sports game
