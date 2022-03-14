@@ -1,6 +1,7 @@
 # NathanShih-Tri-3
 
 5.1 Beneficial and Harmful Effects
+* Technology can be used to help but also hurt people
 * Accelerometer:
   * Automobile industry drove price down
    * Used for airbag deployment and lateral movement detection
