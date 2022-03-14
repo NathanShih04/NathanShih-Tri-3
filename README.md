@@ -1,6 +1,4 @@
 # NathanShih-Tri-3
-[Repl Menu](https://replit.com/@TankeeTort/NathanShih-Tri-3)
-Repl Menu above
 
 ## Notes 5.1, 5.2, and actions
 5.1 Beneficial and Harmful Effects
@@ -52,6 +50,8 @@ Repl Menu above
 * Red tape blocking is not empowerment as it hinders one's ability to utilize technology to the fullest. There is red tape blocking at Del Norte in the form of their blocker where some websites cannot be accessed without a vpn. In order to run a deployed website, one has to use a vpn.
 
 ## Notes on Data Structures Project
+[Repl Menu](https://replit.com/@TankeeTort/NathanShih-Tri-3)
+
 Trail Norte is a club at Del Norte that focuses on cleaning up local trails here in San Diego. Justin Dorman and Raquib Alam are the presidents of this club and started this to improve the outdoors of our community. Every weekend, a group of volunteers goes out to trails and removes invasive plants, cleans trash, and clears paths on the trail for people to walk. They have also been involved in helping local rangers complete tasks to improve San Diego's outdoor areas. After every project, the club members go out to eat food together as additional team bonding.
 
 Our project built for TrailNorte will be called Trail Norte Services and will allow members to view upcoming events and manage their volunteer hours for their community service. Calendars and schedules will be added along with tables of information and other activities on the website to alert members of volunteer opportunities. Our website will allow the user to search for trails within a certain radius, as well as have a club member roster. An idea that can be implemented is a contact form that connects the website directly to the TrailNorte leaders' emails. We might also add a suggestion box where users on the website and within the club can type in suggestions for future plans or ideas to improve the club. These suggestions will be visible to TrailNorte leadership in some sort of email form or google form. We will also have a photo gallery of previous volunteer events and that may even include user submitted images.
