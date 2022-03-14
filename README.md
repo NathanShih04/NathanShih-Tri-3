@@ -51,9 +51,7 @@
 
 ## Notes on Data Structures Project
 [Repl Menu](https://replit.com/@TankeeTort/NathanShih-Tri-3)
-
-
-[Code Coming Soon]()
+Comments are inside of the code
 
 ## Create Task Project
 ### Ideas
