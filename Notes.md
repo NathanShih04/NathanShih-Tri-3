@@ -1,3 +1,5 @@
+{% include navbar.html %}
+
 ## Notes 5.1, 5.2, and actions
 5.1 Beneficial and Harmful Effects
 * Technology can be used to help but also hurt people
