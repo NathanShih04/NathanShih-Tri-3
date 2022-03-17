@@ -1,4 +1,3 @@
-{% include navbar.html %}
 
 # NathanShih-Tri-3
 
