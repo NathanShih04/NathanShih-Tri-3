@@ -1,7 +1,6 @@
-
 # NathanShih-Tri-3
 
-
+{% include navbar.html %}
 
 ## Notes on Data Structures Project
 [Repl Menu](https://replit.com/@TankeeTort/NathanShih-Tri-3)
