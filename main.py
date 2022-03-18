@@ -3,6 +3,7 @@ import time
 ans = True
 while ans:
     print("""
+    Repl Menu:
     1. Ship Pattern
     2. Build a Christmas Tree
     3. Number Swap
