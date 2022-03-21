@@ -148,7 +148,7 @@ while ans:
             
       else:
         ans = False
-        print("See you later!")
+        print("See you!")
   
   # END OF WEEK 1 TASKS --------------------------------
   
@@ -301,14 +301,13 @@ while ans:
         print("please input a positive value")  
 
     # Breakout
-    else:
+    elif ans == "4":
       ans = False
       print("See you later!")
             
   # END OF WEEK 2 TASKS --------------------------------
 
-  # Main Menu Breakout
-  else:
-      ans = False
-      print("See you later!")
+  elif mm == "3":
+    ans = False
+    print("Bye!")
   
