@@ -1,3 +1,4 @@
+# Datalists hack task -------------------------------
 InfoDb = []
 
 InfoDb.append({  
@@ -28,7 +29,7 @@ InfoDb.append({
                "Hobbies":["Basketball", "Anime", "YouTube", "Music"] 
               })
 
-
+# Datalist to print using the three loops - for - while - recursion
 
 InfoDbLoop = []
 
@@ -69,6 +70,9 @@ def print_data(n):
   print("\t", "Hobbies: ", end="")
   print(", ".join(InfoDbLoop[n]["Hobbies"]))  # join allows printing a string list with separator
   print()
+
+
+# Dataloops hack task ------------------------------------
 
 # For Loop
 def for_loop():
