@@ -39,7 +39,7 @@ def submenuc():
 
 
 def menu():
-    title = "Nathan Shih Menu" + banner
+    title = "Nathan Shih's Menu" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Submenu", submenu])
     buildMenu(title, menu_list)
