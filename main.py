@@ -13,6 +13,8 @@ while ans:
   
     ans = input("What would you like to do? ")
 
+# WEEK 1 TASKS ---------------------------------------------
+  
     def ocean_print():
       # print ocean
       print(ANSI_CLEAR_SCREEN, ANSI_HOME_CURSOR)
@@ -48,6 +50,13 @@ while ans:
             ship_print(position)  # call to function with parameter
             time.sleep(.1)
 
+        # Generating Pole Shape
+    def poleShape(n):
+      for i in range(n):
+          for j in range(n-1):
+              print(' ', end=' ')
+          print('* * *')
+
     if ans=="1":
       ANSI_CLEAR_SCREEN = u"\u001B[2J"
       ANSI_HOME_CURSOR = u"\u001B[0;0H\u001B[2"
@@ -68,13 +77,6 @@ while ans:
                 print('*',end=' ')
             print()
     
-    # Generating Pole Shape
-      def poleShape(n):
-        for i in range(n):
-            for j in range(n-1):
-                print(' ', end=' ')
-            print('* * *')
-    
     # Input and Function Call
       row = int(input('Enter number of rows: '))
     
@@ -83,15 +85,16 @@ while ans:
       poleShape(row)
 
     elif ans=="3":
-      import random
 
-      age1 = float(input("Choose first age: "))
-      age2 = float(input("Choose second age: "))
+      num1 = float(input("Choose first number: "))
+      num2 = float(input("Choose second number: "))
       
-      if age1 < age2:
-          print(age1, age2)
-      else:
-          print(age2, age1)
+      holder = num1
+      num1 = num2
+      num2 = holder
+      print("After swap...")
+      print("number 1: " + str(num1))
+      print("number 2: " + str(num2))
 
     elif ans=="4":
       matrix = []
@@ -125,6 +128,12 @@ while ans:
             print(matrix[i][j], end=" ")
           print()
 
+# END OF WEEK 1 TASKS --------------------------------
+
+# WEEK 2 TASKS ---------------------------------------------
+
+          
+# END OF WEEK 2 TASKS --------------------------------
   
     else:
       ans = False
