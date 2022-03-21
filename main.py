@@ -202,7 +202,7 @@ while ans:
         print_data(i)
 
 
-    
+    # InfoDB loops
     if ans == "2":
       InfoDbLoop = []
 
