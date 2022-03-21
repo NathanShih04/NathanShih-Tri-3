@@ -21,7 +21,7 @@ sub_menu = [
 ]
 
 border = "=" * 25
-banner = f"\n{border}\nPlease Select An Option\n{border}"
+banner = f"\n{border}\nChoose one of the options: \n{border}"
 
 
 def menuc():
@@ -39,7 +39,7 @@ def submenuc():
 
 
 def menu():
-    title = "Function Menu" + banner
+    title = "Nathan Shih Menu" + banner
     menu_list = main_menu.copy()
     menu_list.append(["Submenu", submenu])
     buildMenu(title, menu_list)
