@@ -24,7 +24,7 @@ while ans:
     
       ans = input("What would you like to do? ")
   
-  # WEEK 1 TASKS ---------------------------------------------
+  # WEEK 1 TASKS --------------------------------------------------------------------
     
       def ocean_print():
         # print ocean
@@ -139,9 +139,9 @@ while ans:
         ans = False
         print("See you!")
   
-  # END OF WEEK 1 TASKS --------------------------------
+  # END OF WEEK 1 TASKS -------------------------------------------------------
   
-  # WEEK 2 TASKS ---------------------------------------------
+  # WEEK 2 TASKS --------------------------------------------------------------------
   if mm == "2":
     
     print("""
@@ -294,7 +294,7 @@ while ans:
       ans = False
       print("See you later!")
             
-  # END OF WEEK 2 TASKS --------------------------------
+  # END OF WEEK 2 TASKS -------------------------------------------------------
 
   elif mm == "3":
     ans = False
