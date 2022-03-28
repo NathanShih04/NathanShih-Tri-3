@@ -1,22 +1,26 @@
 # 1. file names will be run by exec(open("filename.py").read())
 # 2. function references will be executed directly file.function()
 # imports from other .py files
-import ship
-import datalists
+from procedures.week0 import ship
+from procedures.week1 import datalists
+from procedures.week2 import lcm
 
 # Main Menu
 main_menu = [
-    ["Fibonacci", "fibonacci.py"],
-    ["Datalists", datalists.main]
+    ["Factorial", "procedures/week2/factorial.py"],
+    ["Least Common Multiple", lcm.perform],
+    ["Palindrome", "procedures/week2/palindrome.py"]
 ]
 
 # Submenu list of [Prompt, Action]
 # Works similarly to main_menu
 sub_menu = [
-    ["Swap", "swap.py"],
-    ["Tree", "tree.py"],
+    ["Fibonacci", "procedures/week1/fibonacci.py"],
+    ["Datalists", datalists.main],
+    ["Swap", "procedures/week0/swap.py"],
+    ["Tree", "procedures/week0/tree.py"],
     ["Ship", ship.ship],
-    ["Keypad", "keypad.py"]
+    ["Keypad", "procedures/week0/keypad.py"]
 
 ]
 
