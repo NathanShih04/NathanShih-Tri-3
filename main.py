@@ -25,6 +25,10 @@ data_sub_menu = [
     ["Datalist", datalists.main]
 ]
 
+misc_sub_menu = [
+  ["Color Text", "procedures/week3/colors.py"]
+]
+
 # Menu banner is typically defined by menu owner
 border = "=" * 25
 banner = f"\n{border}\nPick An Option\n{border}"
@@ -37,6 +41,7 @@ def menu():
     menu_list.append(["Patterns", submenu])
     menu_list.append(["Math", math_submenu])
     menu_list.append(["Data", data_submenu])
+    menu_list.append(["Miscellaneous", misc_submenu])
     buildMenu(title, menu_list)
 
 
@@ -59,7 +64,12 @@ def data_submenuc():
     title = "submenu" + banner
     m = submenus.Menu(title, data_sub_menu)
     m.menu()
-
+  
+def misc_submenuc():
+    title = "submenu" + banner
+    m = submenus.Menu(title, misc_sub_menu)
+    m.menu()
+  
 def math_submenu():
     title = "submenu" + banner
     buildMenu(title, math_sub_menu)
@@ -68,6 +78,9 @@ def data_submenu():
   title = "submenu" + banner
   buildMenu(title, data_sub_menu)
 
+def misc_submenu():
+  title = "submenu" + banner
+  buildMenu(title, misc_sub_menu)
 # builds console menu
 def buildMenu(banner, options):
     print(banner)
