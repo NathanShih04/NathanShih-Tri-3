@@ -26,7 +26,8 @@ data_sub_menu = [
 ]
 
 misc_sub_menu = [
-  ["Color Text", "procedures/week3/colors.py"]
+  ["Color Text", "procedures/week3/colors.py"],
+  ["Rock, Paper, Scissors", "procedures/week3/rockpaperscissors.py"]
 ]
 
 # Menu banner is typically defined by menu owner
