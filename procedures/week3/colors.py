@@ -1,5 +1,5 @@
 def color(red, green, blue, text):
-    return "\033[38;2;{};{};{}m{}\033[38;2;int();255;255m".format(red, green, blue, text)
+    return "\033[38;2;{};{};{}m{}\033[38;2;i".format(red, green, blue, text) # this weird string can basically just print it outs
   
 red = input("add a value 0-255 for r:")
 blue = input("add a value 0-255 for b:")
