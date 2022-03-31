@@ -3,6 +3,7 @@ from procedures import submenus
 from procedures.week0 import ship
 from procedures.week1 import datalists
 from procedures.week2 import lcm
+from procedures.week3.gcd import *
 
 main_menu = [
 ]
@@ -18,7 +19,8 @@ math_sub_menu = [
     ["Palindrome", "procedures/week2/palindrome.py"],
     ["Keypad", "procedures/week0/keypad.py"],
     ["Swap", "procedures/week0/swap.py"],
-    ["Fibonacci", "procedures/week1/fibonacci.py"]
+    ["Fibonacci", "procedures/week1/fibonacci.py"],
+  ["Greatest Common Divisor", "procedures/week3/gcd.py"]
 ]
 
 data_sub_menu = [
