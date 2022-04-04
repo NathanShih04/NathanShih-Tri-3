@@ -9,3 +9,5 @@ Week 0 | Plans, Teams, and Jobs | [Review Ticket](https://github.com/NathanShih0
 Week 1 | Lists and Loops | [Review Ticket](https://github.com/NathanShih04/NathanShih-Tri-3/issues/2) |
 Week 2 | Classy Functions | [Review Ticket](https://github.com/NathanShih04/NathanShih-Tri-3/issues/3) |
 Week 3 | Crossover Coding | [Review Ticket](https://github.com/MadCacti/bipbapbopbepbup/commits?author=NathanShih04) |
+Algorithmic Final | Crossover Coding | [Review Ticket](https://github.com/NathanShih04/NathanShih-Tri-3/issues/4) |
+
