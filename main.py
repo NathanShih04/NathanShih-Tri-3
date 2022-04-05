@@ -5,14 +5,17 @@ from procedures.week1 import datalists
 from procedures.week2 import lcm
 from procedures.week3.gcd import *
 
+# MAIN MENU ---------------------------------------------------
 main_menu = [
 ]
 
+# PATTERNS MENU -----------------------------------------------
 sub_menu = [
     ["Tree", "procedures/week0/tree.py"],
     ["Ship", ship.ship]
 ]
 
+# MATH MENU ---------------------------------------------------
 math_sub_menu = [
     ["Factorial", "procedures/week2/factorial.py"],
     ["Least Common Mulitple", lcm.perform],
@@ -23,10 +26,12 @@ math_sub_menu = [
   ["Greatest Common Divisor", "procedures/week3/gcd.py"]
 ]
 
+# DATA MENU --------------------------------------------------
 data_sub_menu = [
     ["Datalist", datalists.main]
 ]
 
+# MISC MENU -------------------------------------------------
 misc_sub_menu = [
   ["Color Text", "procedures/week3/colors.py"],
   ["Rock, Paper, Scissors", "procedures/week3/rockpaperscissors.py"]
