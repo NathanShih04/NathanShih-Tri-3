@@ -28,3 +28,13 @@ The answer should have been C (7) since 7 bits will allow for 128 sequences base
 43: ![image](https://user-images.githubusercontent.com/88810038/166415778-5b5dd3af-77f1-473e-8776-365de94976e8.png)
 The answer should have been C since the question asks for the following groups LEAST likely to receive targeted advertisements. It would be individuals who sign up for a premium account since they do not receive advertisements at all.
 
+![image](https://user-images.githubusercontent.com/88810038/167219757-6ca289ef-4d71-41d7-8615-8b60edade7ba.png)
+
+4: ![image](https://user-images.githubusercontent.com/88810038/167219834-d3d4d132-3f9a-4581-9df4-93a0ee0685a5.png)
+Answer should have been B and C. I got this wrong because I didn't know that I was supposed to chose more than one answers. The remainder can also be represented by a single binary digit since it will either be 1 or 0. 
+
+15: ![image](https://user-images.githubusercontent.com/88810038/167219995-8ecd5a39-0851-4434-9a36-e6693dcd0707.png)
+Answer should have been C since the values produced will be 10 but but it will be 1-10 and 2-11. This is because of the location of i = i+1
+
+16: ![image](https://user-images.githubusercontent.com/88810038/167220176-372cfec1-c240-4ae4-a2cb-f9d78dd60dc6.png)
+It will display identical values because of the less than or greater than sign. That makes up for the i = i+1 being put in front of the display value.
